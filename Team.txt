@@ -1,0 +1,18 @@
+Jesaiah Prayor -	~56hrs	API / Scrum Lord / Documentation / Hibernate 
+Deoburton Guyadin - 	~63hrs	Module Set-up / API
+Elisee Augustin - 	~48hrs	SpringMVC / Module SetUp
+Prateek Malli - 	~34hrs	Hibernate / MySQL & Datasets
+Michel Chemas -		~40 hrs	Environment & Module / Documentation
+
+Honor Statement - 
+ 
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment.
+
+Signed
+
+Jesaiah Prayor
+Deoburton Guyadin
+Elisee Augustin
+Michel Chemas
+Prateek Malli
+

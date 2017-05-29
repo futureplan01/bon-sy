@@ -1,0 +1,16 @@
+Test Plan:
+
+	-Using the drug interaction API accessing the National Library of Medicine, we got the data that would determine an interaction amongst different types of drugs.
+
+	-We had to incorporate this API’s data set with the OpenMRS data set of patients and their prescriptions. 
+	
+	-Through mapping the data sets together, we are able to show potential dangerous interactions of drugs for patients via search.
+	
+	-The framework we used to deploy our module was through the Spring MVC. Within Spring we used Hibernate to work with the database querying, and hibernate xml mapping files for the data sets.
+	
+	 - Using the Spring MVC and implementing it through java files, we were able to connect the different parts of the MVC into a working module.
+
+
+—————————————————————————————————————————————————————————————————————————————————————————
+
+

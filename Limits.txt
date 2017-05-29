@@ -1,0 +1,23 @@
+The following features are not available:
+
+For Users (Doctors) :
+
+-Add/save the drug as a prescription if it is safe. (not interaction)
+-Doesn't give a list of alternate drugs if there is an interaction.
+
+
+For Drug Database:
+
+-The ingredient(s) at which the interaction occurs isn't able to be specified as of yet.
+-Cannot determine interactions for drugs not available in our database (Library of Medical Records DB).
+
+
+For our module:
+
+-We couldn't correctly map our java files to work with the MySQL openMRS database, which was Hibernate's functionality.
+-Our front-end view is a bit barebones, could have more interactivity.
+
+
+Ideas:
+
+-Our limitations currently specified above are some ideas (STRETCH GOALS) that we have.

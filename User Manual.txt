@@ -1,0 +1,8 @@
+User Manual (Quickstart Guide) :
+
+-First the user inputs a patient last name.
+-A list of patients with that specific last names is displayed.
+-The doctors will select the desired patient from the list.
+-The patient's prescribed drugs will be displayed with a text area to enter an additional drug with a test button.
+-If there is no interaction the page will display "No Interaction", meaning the doctor can prescribe the respective drug.
+-If there is an interaction, however, the page will display "INTERACTION!" and display the drugs from the patient's list of drugs that interact with the entered drug.

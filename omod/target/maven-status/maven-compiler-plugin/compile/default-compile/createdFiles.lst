@@ -1,0 +1,9 @@
+com\Drug\Service\DrugServiceImpl.class
+org\openmrs\module\testmodule\fragment\controller\UsersFragmentController.class
+org\openmrs\module\testmodule\web\controller\TestModuleController.class
+com\Drug\controller\DrugController.class
+com\beans\Drug.class
+com\Drug\dao\DrugDAO.class
+org\openmrs\module\testmodule\extension\html\AdminList.class
+com\Drug\Service\DrugService.class
+com\Drug\dao\DugDAOImpl.class

@@ -1,0 +1,36 @@
+Schema draft:
+
+Create table Patient(
+    patient_id int not null,
+    tribe int not null,
+    creator int not null,
+    date_created DATETIME not null,
+    changed_by not null,
+    date_changed DATETIME string,
+    voided SMALLINT not null,
+    voided_by INT not null,
+    data_voided DATETIME not null,
+    void_reason VARCHAR(255) not null,
+    timestamp datetime not null
+)
+
+Create table Drug (
+    drug_id int not null,
+    concept_id int not null,
+    name VARCHAR(50) not null,
+    combination SMALLINT not null,
+    dosage_form int not null,
+    dose_strength DOUBLE not null,
+    maximum_daily_dose DOUBLE not null,
+    minimum_daily_dose DOUBLE not null,
+    route int not null,
+    units VARCHAR(50) not null,
+    creator int not null,
+    date_created DATETIME not null,
+    retired smallint not null,
+    retired_By int not null,
+    date_retired DATETIME not null,
+    retire_reason VARCHAR(255) not null,
+    retire_reason VARCHAR(255) not null,
+    uuid CHAR(38) not null
+)

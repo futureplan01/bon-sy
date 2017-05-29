@@ -1,0 +1,6 @@
+org\openmrs\module\testmodule\TestModuleActivator.class
+org\openmrs\module\testmodule\TestModuleConfig.class
+org\openmrs\module\testmodule\api\impl\TestModuleServiceImpl.class
+org\openmrs\module\testmodule\api\dao\TestModuleDao.class
+org\openmrs\module\testmodule\api\TestModuleService.class
+org\openmrs\module\testmodule\Item.class

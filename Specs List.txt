@@ -1,0 +1,9 @@
+Tested on
+
+JVM	  1.8
+MySQL	  14.14
+Tomcat	  8	  
+OpenMRS	  2.6.0
+Maven	  3.3.9 	  
+
+

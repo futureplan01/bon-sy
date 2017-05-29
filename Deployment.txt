@@ -1,0 +1,13 @@
+JVM	  1.8
+MySQL	  14.14
+Tomcat	  8	  
+OpenMRS	  2.6.0
+Maven	  3.3.9 	  
+
+-- Download openMRS standalone and installing locally.
+-- Place openmrs.war file into Tomcat server webapps folder.
+-- Restart tomcat.
+-- Inside openmrs module, compile it using maven, generate target folder
+-- Inside target folder, there is a .omod
+-- Within openMRS, go to Administration, manage modules, upload Module
+-- Restart Tomcat server, module should be implemented in openMRS

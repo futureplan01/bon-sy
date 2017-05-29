@@ -1,0 +1,20 @@
+System Requirement
+
+In order to run our module you first need a functional Mac/Windows/Linux machine with Internet. We need to download the standalone reference application v 2.6.0 from http://openmrs.org/download/
+
+
+Installation
+To install the module, first you have go to the Standalone Jar which is located inside the zip file called Standalone. Inside the Standalone Folder double click on the openmrs-standalone Jar file or run the jar file in terminal using the java -jar jarfile-name command.
+
+Once the jar file is loaded {Describe the step by step process of whats suppose to happen, Like whether the user should click Demonstration mode or Starter implementation and user login}
+
+
+/// Idk if the stuff under me is correct.
+{Go to Advance administration, Under modules, click manage modules, In manage modules click add or upgrade module. Under add modules click browse, navigate to the path where the omod file is. Select the omod file and click upload. After the file is uploaded, you can access the module from the admin page. }
+
+
+**********Configuration*********
+In order for a user to make our project work they do not need to configure anything. 
+
+
+
